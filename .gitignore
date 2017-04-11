@@ -1,0 +1,6 @@
+1 course/examples/
+1 course/hw/*/.ipynb_checkpoints/
+2 course/? week/review/
+2 course/? week/examples/
+? course/*/.ipynb_checkpoints/
+2 course/? week/*.txt
